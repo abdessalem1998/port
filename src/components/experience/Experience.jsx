@@ -42,14 +42,14 @@ const Experience = () => {
                 <article className="experience__details">
                   <BsPatchCheckFill className="experience__details-icon" />
                   <div>
-                    <h4>Tailwind</h4>
+                    <h4>React</h4>
                     <small className="text-light">Experienced</small>
                   </div>
                 </article>
                 <article className="experience__details">
                   <BsPatchCheckFill className="experience__details-icon" />
                   <div>
-                    <h4>React</h4>
+                    <h4>Redux</h4>
                     <small className="text-light">Experienced</small>
                   </div>
                 </article>
@@ -62,21 +62,21 @@ const Experience = () => {
                 <article className="experience__details">
                   <BsPatchCheckFill className="experience__details-icon" />
                   <div>
-                    <h4>Node Js</h4>
+                    <h4>Ruby</h4>
                     <small className="text-light">Experienced</small>
                   </div>
                 </article>
                 <article className="experience__details">
                   <BsPatchCheckFill className="experience__details-icon" />
                   <div>
-                    <h4>MongoDB</h4>
-                    <small className="text-light">Intermediate</small>
+                    <h4>Postgresql</h4>
+                    <small className="text-light">Experienced</small>
                   </div>
                 </article>
                 <article className="experience__details">
                   <BsPatchCheckFill className="experience__details-icon" />
                   <div>
-                    <h4>PHP</h4>
+                    <h4>Ruby on rails</h4>
                     <small className="text-light">Experienced</small>
                   </div>
                 </article>
@@ -90,12 +90,110 @@ const Experience = () => {
                 <article className="experience__details">
                   <BsPatchCheckFill className="experience__details-icon" />
                   <div>
-                    <h4>Python</h4>
+                    <h4>Data Structure</h4>
+                    <small className="text-light">Experienced</small>
+                  </div>
+                </article>
+                <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon" />
+                  <div>
+                    <h4>Algorithms</h4>
+                    <small className="text-light">Experienced</small>
+                  </div>
+                </article>
+
+              </div>
+            </div>
+
+            <div className="experience__frontend">
+              <h3>Tools & Methods</h3>
+              <div className="experience__content">
+                <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon" />
+                  <div>
+                    <h4>Git</h4>
+                    <small className="text-light">Experienced</small>
+                  </div>
+                </article>
+                <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon" />
+                  <div>
+                    <h4>GitHub</h4>
+                    <small className="text-light">Intermediate</small>
+                  </div>
+                </article>
+                <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon" />
+                  <div>
+                    <h4>Chrome Dev Tools</h4>
+                    <small className="text-light">Experienced</small>
+                  </div>
+                </article>
+                <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon" />
+                  <div>
+                    <h4>Heroku</h4>
+                    <small className="text-light">Experienced</small>
+                  </div>
+                </article>
+                <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon" />
+                  <div>
+                    <h4>Netlify</h4>
+                    <small className="text-light">Experienced</small>
+                  </div>
+                </article>
+                <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon" />
+                  <div>
+                    <h4>NPM</h4>
                     <small className="text-light">Experienced</small>
                   </div>
                 </article>
               </div>
             </div>
+
+            <div className="experience__frontend">
+              <h3>Professional</h3>
+              <div className="experience__content">
+                <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon" />
+                  <div>
+                    <h4>Remote</h4>
+                    <small className="text-light">Experienced</small>
+                  </div>
+                </article>
+                <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon" />
+                  <div>
+                    <h4>Pair-Programming</h4>
+                    <small className="text-light">Intermediate</small>
+                  </div>
+                </article>
+                <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon" />
+                  <div>
+                    <h4>Teamwork</h4>
+                    <small className="text-light">Experienced</small>
+                  </div>
+                </article>
+                <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon" />
+                  <div>
+                    <h4>Mentoring</h4>
+                    <small className="text-light">Experienced</small>
+                  </div>
+                </article>
+                <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon" />
+                  <div>
+                    <h4>Documentation</h4>
+                    <small className="text-light">Experienced</small>
+                  </div>
+                </article>
+              </div>
+            </div>
+
           </div>
         </section>
     )

@@ -10,88 +10,76 @@ const Services = () => {
           <div className="container services__container">
             <article className="service">
               <div className="service__head">
-                <h3>UI/UX Design</h3>
+                <h3>Frontend</h3>
               </div>
               <ul className='service_list'>
                 <li>
                   <BiCheck className='service_list-icon' />
-                  <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                  <p>Match figma design</p>
                 </li>
                 <li>
                   <BiCheck className='service_list-icon' />
-                  <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                  <p>Consume api </p>
                 </li>
                 <li>
                   <BiCheck className='service_list-icon' />
-                  <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                  <p>Responsive design</p>
                 </li>
                 <li>
                   <BiCheck className='service_list-icon' />
-                  <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
-                </li>
-                <li>
-                  <BiCheck className='service_list-icon' />
-                  <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                  <p>Fix design</p>
                 </li>
               </ul>
             </article>
 
             <article className="service">
               <div className="service__head">
-                <h3>Web Development</h3>
+                <h3>Fullstack</h3>
               </div>
               <ul className='service_list'>
                 <li>
                   <BiCheck className='service_list-icon' />
-                  <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                  <p>Fullstack Apps</p>
                 </li>
                 <li>
                   <BiCheck className='service_list-icon' />
-                  <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                  <p>Deploy and Maintenance</p>
                 </li>
                 <li>
                   <BiCheck className='service_list-icon' />
-                  <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                  <p>Server rendering</p>
                 </li>
                 <li>
                   <BiCheck className='service_list-icon' />
-                  <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                  <p>mentoring and support</p>
                 </li>
                 <li>
                   <BiCheck className='service_list-icon' />
-                  <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
-                </li>
-                <li>
-                  <BiCheck className='service_list-icon' />
-                  <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                  <p>Web development tutoring</p>
                 </li>
               </ul>
             </article>
 
             <article className="service">
               <div className="service__head">
-                <h3>Content Creation</h3>
+                <h3>Backend</h3>
               </div>
               <ul className='service_list'>
                 <li>
                   <BiCheck className='service_list-icon' />
-                  <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                  <p>crud implementation</p>
                 </li>
                 <li>
                   <BiCheck className='service_list-icon' />
-                  <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                  <p>Rest Apis</p>
                 </li>
                 <li>
                   <BiCheck className='service_list-icon' />
-                  <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                  <p>app maintenance</p>
                 </li>
                 <li>
                   <BiCheck className='service_list-icon' />
-                  <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
-                </li>
-                <li>
-                  <BiCheck className='service_list-icon' />
-                  <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                  <p>Database design</p>
                 </li>
               </ul>
             </article>

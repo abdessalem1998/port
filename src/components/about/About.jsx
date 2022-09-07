@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/about-me.png'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -21,24 +21,21 @@ const About = () => {
                 <article className="about__card">
                   <FaAward className="about__icon"/>
                   <h5>Experience</h5>
-                  <small>3+ Years Working Experience</small>
+                  <small>1+ Years Working Experience</small>
                 </article>
                 <article className="about__card">
                   <FiUsers className="about__icon"/>
                   <h5>Clients</h5>
-                  <small>200+ Worldwide</small>
+                  <small>20+ Worldwide</small>
                 </article>
                 <article className="about__card">
                   <VscFolderLibrary className="about__icon"/>
                   <h5>Projects</h5>
-                  <small>80+ Completed</small>
+                  <small>25+ Completed</small>
                 </article>
               </div>
               <p>
-                dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
-                Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-                nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-                Nulla consequat massa quis enim. Donec pede justo,
+                Full Stack web developer and computer engineer with a love for clean code and accessible design. Pair-programming and remote work. Fluent in multiple languages, frameworks, and technologies, and capable of ramping up quickly and efficiently.
               </p>
               <a href="#contact" className="btn btn-primary">Let's Talk</a>
             </div>
